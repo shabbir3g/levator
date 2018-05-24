@@ -1,0 +1,166 @@
+@media all and (max-width: 991px){
+	.toogle-button{
+		display: block;
+	}
+	.header-top-fixed{
+		height: inherit;
+	}
+	.header-top-fixed.shrink {
+		height: inherit;
+	}
+	.levator-content {
+		background-position: 100% 21%;
+	}
+	.levator-cont {
+		width: 100%;
+		padding: 21px 0;
+	}
+	.meta-cont {
+		float: none;
+		text-align: center;
+		margin-bottom: 25px;
+	}
+	.social-share {
+		float: none;
+		text-align: center;
+	}
+	.switcher-left {
+		float: none;
+		width: 100%;
+		position: inherit;
+	}
+	.switcher {
+		float: none;
+		width: 100%;
+		margin: 0;
+	}
+	.switcher .switcher-item label {
+		font-size: 14px;
+		padding: 8px 8px;
+	}
+	.textarea-left {
+		float: none;
+		width: 100%;
+		position: inherit;
+		top: 10px;
+	}
+	.textarea {
+		float: none;
+		width: 100%;
+		margin: 0;
+	}
+	input[type="submit"] {
+		width: 100%;
+		float: none;
+	}
+	.switcher .switcher-item {
+		float: none;
+		width: 100%;
+	}
+	.switcher .switcher-item label {
+		font-size: 14px;
+		padding: 8px 8px;
+		width: 100%;
+	}
+	.textarea textarea {
+		height: 191px;
+	}
+}
+@media all and (max-width: 767px){
+	.navbar-brand {
+	width: 200px;
+	}
+	.navbar-brand img{
+		width: 100%;
+	}
+	.navbar-nav{
+		text-align: center;
+	}
+	.levator-content {
+		background-image: none;
+	}
+	.levator-cont {
+		width: 60%;
+		padding: 12px 0;
+		text-align: center;
+		margin: auto;
+	}
+	.middle-area {
+		width: 80%;
+	}
+	.partners-title-bg p {
+		width: 90%;
+	}
+	.partners-title-bg a {
+		width: 150px;
+	}
+	.rec-title p {
+		width: 90%;
+	}
+}
+
+
+
+@media all and (max-width: 414px){
+	.middle-area {
+		width: 90%;
+	}
+	.footer-section ul li {
+		display: block;
+		padding: 9px 0;
+	}
+	.lavs-img img {
+		width: 62%;
+		margin: auto;
+		display: block;
+	}
+	.lav-third-content h2 {
+		font-size: 17px;
+		text-align: center;
+		padding: 15px 0;
+	}
+	.partners-title-bg h2 {
+		font-size: 20px;
+	}
+	.navbar-brand {
+		width: 183px;
+	}
+	.team-cont {
+		padding: 8px 0;
+	}
+	.page-title-bg h2 {
+		padding: 58px 15px;
+		font-size: 24px;
+	}
+	.rec-cont {
+		height: inherit;
+	}
+	.rec-cont img {
+		height: inherit;
+	}
+	.rec-title {
+		padding: 0;
+	}
+	.contact-us-button a {
+		padding: 10px 52px;
+
+	}
+	.meta-cont span {
+		font-size: 13px;
+	}
+	.single-title h2 {
+		font-size: 22px;
+		text-align: center;
+	}
+	.page-title-cont h2 {
+		font-size: 19px;
+	}
+	.blog-menu ul li {
+		display: block;
+		width: 100%;
+		margin: 12px 0;
+	}
+	.textarea textarea {
+		min-height: 200px;
+	}
+}
