@@ -89,11 +89,9 @@ get_header(); ?>
 								<li><a href="#">인권 의례적 거론 그칠까</a></li>
 								<li><a href="#">[단독] 의총 끝내려다 제지당한 홍준표…"원외...</a></li>
 							</ul>
-						</aside>
+						</aside> -->
 						<aside> 
-							<div class="widget-title"> 
-								<h2>관련기</h2> 
-							</div>
+							<h2 class="widget-title">관련기</h2>
 							<div class="widget-content"> 
 								<a href="<?php echo get_template_directory_uri(); ?>/images/sidebar-01.png" data-lightbox="imagesidebar" data-title="My caption"><img src="<?php echo get_template_directory_uri(); ?>/images/sidebar-01.png" alt="" /></a>
 								<h2>무기력을 극복하고 내 안의 열정을 깨워라</h2>
@@ -104,7 +102,7 @@ get_header(); ?>
 								<h2>무기력을 극복하고 내 안의 열정을 깨워라</h2>
 								<p>서울 남부지검 형사4부(신영식 부장검사)는 4일 "폭행 혐의와 관련 공소를 제기하기 어렵고 법리적 다툼의 여지가 소지가 있다"며 조 전 전무에 대해 경찰이 신청한 구속영장을 기각했다고 밝혔다.</p>
 							</div>
-						</aside> -->
+						</aside> 
 						
 					</div>
 					

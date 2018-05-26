@@ -60,7 +60,7 @@ get_header(); ?>
 							
 							
 						
-							<a href="<?php  echo get_the_post_thumbnail_url(); ?>" data-lightbox="imageesblog" data-title="<?php the_title(); ?>"><?php the_post_thumbnail(); ?></a>
+							<a href="<?php the_permalink(); ?>" ><?php the_post_thumbnail(); ?></a>
 							<div class="layer"> 
 								<a class="lock-icon" href="<?php the_permalink(); ?>"></a>
 							</div>
